@@ -10,7 +10,7 @@ const dynamicCacheName = 'runtimecache-v3.2.0';
 // Pre Caching Assets
 const precacheAssets = [
     '/',
-    'img/bg-img/no-internet.png',
+    'https://github.com/masqomar/eb-biz-id-suha/tree/main/img/bg-img/no-internet.png',
     'js/theme-switching.js',
     'offline.html'
 ];
